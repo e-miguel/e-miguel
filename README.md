@@ -3,7 +3,7 @@
 - 🌀 Projects: https://github.com/e-miguel and https://medium.com/@e-miguel
 - 🌱 I’m currently learning The Ultimate IT Fundamentals Course.
 - 💞️ I’m looking to collaborate on Production Grade and Real World DevOps projects.
-- 📫 How to reach me: e32cloud"gmail.com and https://www.linkedin.com/in/e-miguel/
+- 📫 How to reach me: e32cloud@gmail.com and https://www.linkedin.com/in/e-miguel/
 
 <!---
 e-miguel/e-miguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
