@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Miguel.
 - 👀 I’m interested in DevOps roles.
+- 💞️ Projects https://github.com/e-miguel https://medium.com/@e-miguel
 - 🌱 I’m currently learning The Ultimate IT Fundamentals Course.
 - 💞️ I’m looking to collaborate on Production Grade and Real World DevOps projects.
-- 📫 How to reach me:
---e32cloud"gmai.com
+- 📫 How to reach me: e32cloud"gmai.com https://github.com/e-miguel
 
 <!---
 e-miguel/e-miguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
